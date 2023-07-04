@@ -1,6 +1,6 @@
 {
-  "name": "enquirer",
-  "description": "Stylish, intuitive and user-friendly prompt system. Fast and lightweight enough for small projects, powerful and extensible enough for the most advanced use cases.",
+  "name": "enquirer-esm",
+  "description": "extends enquirer, and add es module import support",
   "version": "2.3.6",
   "homepage": "https://github.com/enquirer/enquirer",
   "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
