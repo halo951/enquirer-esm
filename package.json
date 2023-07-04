@@ -1,9 +1,9 @@
 {
   "name": "enquirer-esm",
   "description": "extends enquirer, and add es module import support",
-  "version": "2.3.6",
-  "homepage": "https://github.com/enquirer/enquirer",
-  "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
+  "version": "2.3.6-fix.1",
+  "homepage": "https://github.com/halo951/enquirer-esm",
+  "author": "halo (https://github.com/halo951)",
   "contributors": [
     "Brian Woodward (https://twitter.com/doowb)",
     "Jon Schlinkert (http://twitter.com/jonschlinkert)"
@@ -15,7 +15,7 @@
   "license": "MIT",
   "files": [
     "index.js",
-    "index.mjs",
+    "index.js.mjs",
     "index.d.ts",
     "lib"
   ],
