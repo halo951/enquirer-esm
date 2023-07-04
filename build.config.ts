@@ -5,7 +5,6 @@ export default defineBuildConfig({
     outDir: "./",
     clean: true,
     rollup: {
-        resolve: { browser:true },
         inlineDependencies: true
     },
     hooks: {
